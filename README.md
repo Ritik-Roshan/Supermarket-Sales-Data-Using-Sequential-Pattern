@@ -10,3 +10,5 @@ The cross-sectional model employs advanced analytical techniques to segment and 
 Additionally, the model delves into differences between customer segments, exploring how demographics or shopping behaviors influence product choices. This enables the development of targeted business strategies for different customer groups. By aggregating data across multiple markets, retailers can also identify universal patterns that transcend regional differences, as well as market-specific behaviors that necessitate tailored approaches.
 
 Ultimately, this project aims to enhance retail decision-making by leveraging the power of data. The insights derived from the cross-sectional analysis of product purchases can drive customer satisfaction, improve operational efficiency, and maximize profitability, creating a win-win scenario for both shoppers and retailers.
+# Dashborad Link (wait for a minute after clicking on it...) - 
+https://sales-dashboard-o1nr.onrender.com
